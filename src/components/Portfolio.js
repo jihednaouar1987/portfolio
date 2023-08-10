@@ -1,5 +1,6 @@
 import Isotope from "isotope-layout";
 import { useEffect, useRef, useState } from "react";
+import Image from "next/image";
 const Portfolio = () => {
   // Isotope
   const isotope = useRef();
